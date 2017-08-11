@@ -49,7 +49,7 @@
     "lru-cache": "4.1.1",
     "marked": "0.3.6",
     "node-sass": "4.5.3",
-    "postcss": "5.0.14",
+    "postcss": "6.0.8",
     "stylus": "0.54.5",
     "through": "2.3.8"
   },
