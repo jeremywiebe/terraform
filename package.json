@@ -41,7 +41,7 @@
   "dependencies": {
     "autoprefixer": "7.1.2",
     "coffee-script": "1.12.7",
-    "ejs": "2.3.4",
+    "ejs": "2.5.7",
     "harp-minify": "0.4.0",
     "jade": "1.11.0",
     "less": "2.5.3",
