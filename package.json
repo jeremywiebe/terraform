@@ -42,7 +42,6 @@
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "7.1.6",
-    "cli": "^1.0.1",
     "coffee-script": "1.12.7",
     "ejs": "2.5.7",
     "harp-minify": "0.4.0",
