@@ -1,6 +1,6 @@
 {
   "name": "terraform",
-  "version": "1.5.0",
+  "version": "1.7.0",
   "description": "pre-processor engine that powers the harp web server",
   "repository": {
     "type": "git",
@@ -36,7 +36,8 @@
     "Pierre Spring <pierre@nelm.io>",
     "John Boxall <john@mobify.com>",
     "TJ Nicolaides <tjnicolaides@gmail.com>",
-    "Miguel Lopes <thelogicalpotato@gmail.com>"
+    "Miguel Lopes <thelogicalpotato@gmail.com>",
+    "Jairo Llopis"
   ],
   "license": "MIT",
   "dependencies": {
@@ -45,11 +46,12 @@
     "ejs": "2.5.7",
     "harp-minify": "0.4.0",
     "jjade": "1.11.1",
-    "less": "^2.7.3",
-    "lodash": "4.17.4",
+    "js-yaml": "3.12.0",
+    "less": "3.8.1",
+    "lodash": "^4.17.11",
     "lru-cache": "4.1.1",
-    "marked": "0.3.6",
-    "node-sass": "4.7.2",
+    "marked": "0.4.0",
+    "node-sass": "4.9.3",
     "postcss": "6.0.14",
     "stylus": "0.54.5",
     "through": "2.3.8"
